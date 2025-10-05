@@ -1,3 +1,4 @@
+# Java-Practice-2.2
 Java Application
 ======================
 This is a simple Java application. This application serves as a basic template for a console application using Java.
@@ -7,4 +8,4 @@ Open the terminal run run the following command to run the Java program
 
 ```sh
 java Main.java
-```# Java-Practice-2.2
+```
